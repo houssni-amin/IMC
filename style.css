@@ -100,7 +100,7 @@ form button:hover{
 
 @media(max-width: 800px){
   .container{
-    max-width: 100vh;
+    max-width: 600px;
   }
   .inputs-container{
     flex-direction: column;
